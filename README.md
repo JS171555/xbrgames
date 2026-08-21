@@ -2,7 +2,7 @@
 
 > Plataforma web para apresentação e distribuição de projetos de jogos desenvolvidos para navegador.
 
-![XBRGAMES](assets/00000002.svg)
+![XBRGAMES](assets/00000000.svg)
 
 ## Sobre o projeto
 
